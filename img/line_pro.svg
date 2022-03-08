@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="70mm"
+   width="35mm"
    height="1mm"
-   viewBox="0 0 70 1"
+   viewBox="0 0 35 1"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="line.svg"
+   sodipodi:docname="line_pro.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="8.0703391"
-     inkscape:cx="215.41846"
-     inkscape:cy="7.1248555"
+     inkscape:cx="70.443137"
+     inkscape:cy="5.2661976"
      inkscape:window-width="1366"
      inkscape:window-height="739"
      inkscape:window-x="0"
@@ -39,12 +39,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.53528;stroke-linecap:square"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.38179;stroke-linecap:square"
        id="rect880"
-       width="69.224403"
-       height="0.50359178"
+       width="34.395832"
+       height="0.82100207"
        x="0.21858443"
-       y="0.28293073"
-       ry="0.12942055" />
+       y="0.093112268"
+       ry="0.21099339" />
   </g>
 </svg>
